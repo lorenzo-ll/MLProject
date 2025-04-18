@@ -1,4 +1,25 @@
-This is the project i presented for the Machine Learning and Pattern Recognition course at Politecnico di Torino. 
-The project task consists of a binary classification problem. The goal is to perform fingerprint spoofing detection, i.e. to identify genuine vs counterfeit fingerprint images.
-The project consists in trying out different classifiers, ranging from Logisic Regression to Support Vector Machines and Gaussian Mixture Models.
-We have also calibrated and tried out fusions of the models to obtain better results.
+Fingerprint Spoofing Detection
+This project was developed as part of the Machine Learning and Pattern Recognition course at Politecnico di Torino.
+
+📌 Project Overview
+The goal of this project is to tackle a binary classification problem:
+Fingerprint Spoofing Detection — distinguishing between genuine and counterfeit fingerprint images.
+
+🧠 Approach
+We explored and evaluated a variety of machine learning models, including:
+
+Logistic Regression
+
+Support Vector Machines (SVM)
+
+Gaussian Mixture Models (GMM)
+
+In addition to standalone model evaluation, we performed model calibration and experimented with model fusion techniques to enhance overall performance.
+
+⚙️ Features
+
+Training and evaluation of multiple classifiers
+
+Model calibration
+
+Late fusion strategies for improved results
